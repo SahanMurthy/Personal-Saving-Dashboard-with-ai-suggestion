@@ -1,0 +1,10 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: personal_savings_dashboard_cookie
+credentials:
+  usernames:
+    sahan:
+      email: sahan@example.com
+      name: Sahan N Murthy
+      password: f302e3f7418eae0ea0ed8c89e3dceb473476ee038276ca8a1f0cf583567b8633
