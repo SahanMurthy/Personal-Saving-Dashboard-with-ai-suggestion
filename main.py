@@ -27,7 +27,7 @@ def authenticate(username, password):
     return False, None
 
 # Function to add a full-screen background
-def add_full_screen_background(image_path="images\background.jpeg", color="wodden browm"):
+def add_full_screen_background(image_path="images\background.jpeg", color="##f0f8ff"):
     """Add a full-screen background using an image or color."""
     background_css = f"""
     <style>
