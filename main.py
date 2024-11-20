@@ -37,7 +37,7 @@ def add_full_screen_background(image_path="images\background.jpeg", color="#f0f8
             background-color: {color}; /* Fallback color */
         }}
         h1 {{
-            color: dark blue; /* White color for the header */
+            color: dark blue; /* dark blue color for the header */
             text-align: center;
             margin-bottom: 20px;
         }}
