@@ -40,9 +40,13 @@ Personal Saving Dashboard with gemini-ai suggestion, live-stock market, etc...
   - View metrics such as closing prices, daily changes, and moving averages.  
   - Includes detailed charts for closing prices and trends.  
 - **Secure Access:** Only authenticated users can access real-time data.
+![Screenshot 2024-11-20 182413](https://github.com/user-attachments/assets/7611dbbf-1b35-4078-9432-1104fde0ac38)
+![Screenshot 2024-11-20 182428](https://github.com/user-attachments/assets/17beb129-973a-429c-9ea8-0827cd77cc32)
+![Screenshot 2024-11-20 182443](https://github.com/user-attachments/assets/bfc3f5e1-75a3-436a-8d0e-bf4e491e63b1)
+![Screenshot 2024-11-20 182453](https://github.com/user-attachments/assets/4d94b37f-6949-4079-850b-c0d26c0d6f4e)
+![Screenshot 2024-11-20 182506](https://github.com/user-attachments/assets/f4f2bc47-e647-49ec-9eac-fc76628bf2ea)
 
-![Screenshot 2024-11-20 182506](https://github.com/user-attachments/assets/4a2f0e3c-c079-44be-ba57-92ce37a4e549)
-![Screenshot 2024-11-20 182453](https://github.com/user-attachments/assets/5315b57d-c07a-4a39-b87c-1ff3caf732f3)
+
 
   
 **4. AI Tips & Recommendations**  
